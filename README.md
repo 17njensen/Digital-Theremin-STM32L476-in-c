@@ -9,3 +9,6 @@ which is then outputted to a connected speaker. This device has previously set f
 
 Below is the final result:
 https://www.youtube.com/watch?v=b5oFaTwS9fg&ab_channel=McClainJorgensen
+
+### Digital design in comparison to true theremin
+![alt text](https://github.com/17njensen/Digital-Theremin-STM32L476-in-c/blob/main/image.PNG)
